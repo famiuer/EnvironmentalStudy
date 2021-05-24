@@ -1,2 +1,2 @@
 # EnvironmentalStudy
-A self study notes
+A self study notebook
