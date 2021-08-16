@@ -3,9 +3,9 @@ A self study notebook
 
 Environmental conditions
 
-* 2 Wind
+2. Wind
 
-* 3 Wave 
+3. Wave 
 
-* 4 Current and tide
+4. Current and tide
 
