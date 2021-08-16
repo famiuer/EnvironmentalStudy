@@ -1,5 +1,5 @@
 # EnvironmentalStudy
-A self study notebook
+A self-study notebook
 
 Environmental conditions
 
